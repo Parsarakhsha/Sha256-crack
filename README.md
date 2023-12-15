@@ -1,0 +1,1 @@
+This python code can be used to crack Sha 256 algorithm but please notice that this code is just for numbers range in 1 to 1000 and you must create an exel file with four character name and number then import it to the python file. Finally run the program and enjoy ;)
